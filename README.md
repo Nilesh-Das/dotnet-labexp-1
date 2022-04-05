@@ -1,6 +1,6 @@
 # NET LAB Experiment 1
 
-View the solution code in: `ClientApp/src/components`
+View the solution code in: [`ClientApp/src/components`](ClientApp/src/components)
 
 Click on Navigation Bar to view the tools:
 
